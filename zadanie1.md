@@ -1,4 +1,4 @@
-# Laboratorium – Programowanie Aplikacji w Chmurze Obliczeniowej
+<img width="516" height="541" alt="image" src="https://github.com/user-attachments/assets/0c4ee162-bf40-49fa-8567-ead9c7e9cd58" /># Laboratorium – Programowanie Aplikacji w Chmurze Obliczeniowej
 
 ---
 
@@ -44,7 +44,7 @@ docker logs weather
 docker history weather-app
 docker images
 ```
-<img width="942" height="317" alt="image" src="https://github.com/user-attachments/assets/5e339db1-4702-4685-afa7-4896cfefcfb9" />
+<img width="516" height="541" alt="image" src="https://github.com/user-attachments/assets/3112e876-9bc4-471b-821c-c45f4539d0ab" />
 
 <img width="902" height="96" alt="image" src="https://github.com/user-attachments/assets/9088e2f5-1ceb-445e-9c91-ecbf96969651" />
 
