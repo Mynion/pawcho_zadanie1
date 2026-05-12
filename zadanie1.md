@@ -51,7 +51,7 @@ docker images
 ---
 
 # Potwierdzenie działania
-<img width="545" height="513" alt="image" src="https://github.com/user-attachments/assets/11892bfd-30b1-4f63-b873-e1036130b5e6" />
+<img width="508" height="552" alt="image" src="https://github.com/user-attachments/assets/4d907a30-a4b6-4253-a583-f3848f20e3ff" />
 
 <img width="1866" height="60" alt="image" src="https://github.com/user-attachments/assets/d38a2324-c140-482c-a4e3-cd67cbf1ccb2" />
 
